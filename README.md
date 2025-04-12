@@ -4,6 +4,7 @@
 
 > ⚠️ **Important note**: This is an unofficial update of the Simple Tabs addon to support current Blender versions. This version is not associated with the original developers and is maintained by the community.
 
+I took the liberty of updating the addon. After all, modern technologies allow doing this quite quickly and painlessly. So:
 Blender addon for organizing the sidebar in Blender.
 
 ## Features
