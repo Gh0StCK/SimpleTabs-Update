@@ -14,10 +14,10 @@
 
 bl_info = {
     'name': 'SIMPLE TABS',
-    'author': 'bonjorno7, Chipp Walters, MasterXeon1001',
-    'description': 'Organize the Blender sidebar',
-    'blender': (2, 80, 0),
-    'version': (1, 2, 4),
+    'author': 'bonjorno7, Chipp Walters, MasterXeon1001, Updated for Blender 4.0+ by gh0stck',
+    'description': 'Organize the Blender sidebar (Community Update)',
+    'blender': (4, 0, 0),
+    'version': (2, 0, 0),
     'location': 'View3D',
     'category': '3D View',
 }
